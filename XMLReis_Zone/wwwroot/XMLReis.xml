@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Reisid>
+
+	<Reis>
+		<Suund>
+			<Riik>Prantsusmaa</Riik>
+			<Kestvus>8</Kestvus>
+		</Suund>
+		<Transport>Lennureis</Transport>
+		<Majutus>Hotel Lumiere</Majutus>
+		<Ekskursioonid>50</Ekskursioonid>
+		<MuudKulud>30</MuudKulud>
+		<Hinnang>5</Hinnang>
+		<Reisihind>615</Reisihind>
+	</Reis>
+
+	<Reis>
+		<Suund>
+			<Riik>Suurbritannia</Riik>
+			<Kestvus>5</Kestvus>
+		</Suund>
+		<Transport>Lennureis</Transport>
+		<Majutus>Royal Thames Hotel</Majutus>
+		<Ekskursioonid>80</Ekskursioonid>
+		<MuudKulud>40</MuudKulud>
+		<Hinnang>4</Hinnang>
+		<Reisihind>625</Reisihind>
+	</Reis>
+
+	<Reis>
+		<Suund>
+			<Riik>Itaalia</Riik>
+			<Kestvus>9</Kestvus>
+		</Suund>
+		<Transport>Lennureis</Transport>
+		<Majutus>Roma Centro Hotel</Majutus>
+		<Ekskursioonid>60</Ekskursioonid>
+		<MuudKulud>35</MuudKulud>
+		<Hinnang>4</Hinnang>
+		<Reisihind>450</Reisihind>
+	</Reis>
+
+	<Reis>
+		<Suund>
+			<Riik>Hispaania</Riik>
+			<Kestvus>10</Kestvus>
+		</Suund>
+		<Transport>Lennureis</Transport>
+		<Majutus>Catalonia Plaza</Majutus>
+		<Ekskursioonid>90</Ekskursioonid>
+		<MuudKulud>50</MuudKulud>
+		<Hinnang>5</Hinnang>
+		<Reisihind>520</Reisihind>
+	</Reis>
+
+	<Reis>
+		<Suund>
+			<Riik>Holland</Riik>
+			<Kestvus>3</Kestvus>
+		</Suund>
+		<Transport>Lennureis</Transport>
+		<Majutus>Canal View Hotel</Majutus>
+		<Ekskursioonid>70</Ekskursioonid>
+		<MuudKulud>35</MuudKulud>
+		<Hinnang>3</Hinnang>
+		<Reisihind>605</Reisihind>
+	</Reis>
+
+	<Reis>
+		<Suund>
+			<Riik>Saksamaa</Riik>
+			<Kestvus>14</Kestvus>
+		</Suund>
+		<Transport>Lennureis</Transport>
+		<Majutus>Berlin Mitte Hotel</Majutus>
+		<Ekskursioonid>45</Ekskursioonid>
+		<MuudKulud>25</MuudKulud>
+		<Hinnang>5</Hinnang>
+		<Reisihind>405</Reisihind>
+	</Reis>
+
+	<Reis>
+		<Suund>
+			<Riik>Austria</Riik>
+			<Kestvus>4</Kestvus>
+		</Suund>
+		<Transport>Lennureis</Transport>
+		<Majutus>Vienna Central</Majutus>
+		<Ekskursioonid>65</Ekskursioonid>
+		<MuudKulud>30</MuudKulud>
+		<Hinnang>5</Hinnang>
+		<Reisihind>505</Reisihind>
+	</Reis>
+
+	<Reis>
+		<Suund>
+			<Riik>Tšehhi</Riik>
+			<Kestvus>2</Kestvus>
+		</Suund>
+		<Transport>Lennureis</Transport>
+		<Majutus>Prague Old Town</Majutus>
+		<Ekskursioonid>55</Ekskursioonid>
+		<MuudKulud>25</MuudKulud>
+		<Hinnang>2</Hinnang>
+		<Reisihind>430</Reisihind>
+	</Reis>
+
+	<Reis>
+		<Suund>
+			<Riik>Soome</Riik>
+			<Kestvus>1</Kestvus>
+		</Suund>
+		<Transport>Laevareis</Transport>
+		<Majutus>Harbour Hotel</Majutus>
+		<Ekskursioonid>30</Ekskursioonid>
+		<MuudKulud>20</MuudKulud>
+		<Hinnang>1</Hinnang>
+		<Reisihind>265</Reisihind>
+	</Reis>
+
+	<Reis>
+		<Suund>
+			<Riik>Rootsi</Riik>
+			<Kestvus>2</Kestvus>
+		</Suund>
+		<Transport>Laevareis</Transport>
+		<Majutus>Nordic Stay</Majutus>
+		<Ekskursioonid>40</Ekskursioonid>
+		<MuudKulud>25</MuudKulud>
+		<Hinnang>3</Hinnang>
+		<Reisihind>320</Reisihind>
+	</Reis>
+
+</Reisid>

@@ -1,0 +1,12 @@
+﻿@page
+@model ReisZone.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Reisid";
+}
+
+<h1>Minu reisid</h1>
+
+<div>
+    @Html.Raw(Model.TransformedXml)
+</div>
